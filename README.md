@@ -7,5 +7,5 @@ My part for the project was developing the code, which creates the **MEIs** give
 
 This work has been inspired by [1] and it was applied on AllenSDK dataset[2].
 # Bibliography
-[1] W. et al, “Inception loops discover what excites neurons most using deep predictive models”, Nature Neuroscience, 2019.
+[1] W. et al, “Inception loops discover what excites neurons most using deep predictive models”, Nature Neuroscience, 2019.\
 [2] https://allensdk.readthedocs.io/en/latest/index.html
